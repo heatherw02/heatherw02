@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Heather👋
 
-<!--
-**heatherw02/heatherw02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Senior Statistics @ SJSU** → aspiring **Data Analyst**. I turn messy datasets into clear insights and dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Toolbox:** R (tidyverse, ggplot2, mclust), Python (pandas, matplotlib), SQL, Excel, Tableau.
+**Interests:** education data, health & lifestyle, music analytics, AI-in-the-workplace surveys.
+
+
+### Selected Projects
+- **Student Performance (R)** — Multiple regression & ANOVA; effect sizes, diagnostics; reproducible RMarkdown. [Repo →](#)
+- **Obesity Clustering (R)** — K‑means & PCA; silhouette & EM comparisons; habits vs. physical traits. [Repo →](#)
+- **Spotify × YouTube (Py/SQL)** — Cleaning, joins, engagement metrics, Excel dashboard. [Repo →](#)
+- **AI & Data Analyst Survey** — Analysis of skills/tools usage and career paths. [Repo →](#)
+
+
+### How I work
+- Reproducible analysis (scripts + notebooks + environment files)
+- Clear READMEs with results, methods, and next steps
+- Thoughtful data ethics (no raw PII, small sample anonymization)
+
+
+ **Let’s talk:** [LinkedIn](#https://www.linkedin.com/in/heather-wei-7a7919298/)]
