@@ -16,7 +16,7 @@
 
 
 ### How I work
-- Reproducible analysis (scripts + notebooks + environment files)
+- Reproducible analysis (scripts + environment files)
 - Clear READMEs with results, methods, and next steps
 - Thoughtful data ethics (no raw PII, small sample anonymization)
 
