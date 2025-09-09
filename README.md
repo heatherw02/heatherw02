@@ -21,4 +21,4 @@
 - Thoughtful data ethics (no raw PII, small sample anonymization)
 
 
- **Let’s talk:** [LinkedIn](#https://www.linkedin.com/in/heather-wei-7a7919298/)]
+ **Let’s talk:** [LinkedIn](https://www.linkedin.com/in/heather-wei-7a7919298/)]
